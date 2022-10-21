@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gibson Young   gibson.young@qubitsenergy.com    @g.young
 
 # THANKS
 
